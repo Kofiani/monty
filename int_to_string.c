@@ -1,6 +1,7 @@
 /*
  * File: int_to_string.c
- * Auth: Bennett Dixon
+ * Auth: Samuel Idowu
+ *				Ivie Osoiye
  */
 
 #include <stdlib.h>

@@ -1,6 +1,7 @@
 /*
  * File: tokenize_string.c
- * Auth: Bennett Dixon
+ * Auth: Samuel Idowu
+ *			 Ivie Osoiye
  */
 
 #include <stdlib.h>
